@@ -1,1 +1,1 @@
-{"appid":"com.qyzhangh.cddxing","name":"SSC","show":"true","url":"http://www.baidu.com"}
+{"appid":"com.qyzhangh.cddxing","name":"SSC","show":"true","url":"http://www.baidu.com","tabBar":"false"}
