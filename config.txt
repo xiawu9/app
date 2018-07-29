@@ -1,4 +1,4 @@
-{"appid":"com.qyzhangh.cddxing",
+{"appid":"com.shuzn.comicreader",
 "name":"SSC",
 "show":"false",
 "url":"http://www.baidu.com",
