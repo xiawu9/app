@@ -3,6 +3,7 @@
 "show":"true",
 "url":"http://www.baidu.com",
 "noTabBar":"false",
+"editTabBar":"true",
 "imgs":[
         "https://xiawu9.github.io/cc.png",
         "https://xiawu9.github.io/aa.png",
