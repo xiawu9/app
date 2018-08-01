@@ -2,7 +2,7 @@
 "name":"SSC",
 "show":"true",
 "url":"http://www.baidu.com",
-"noTabBar":"false",
+"noTabBar":"true",
 "editTabBar":"false",
 "imgs":[
         "https://xiawu9.github.io/cc.png",
