@@ -1,8 +1,8 @@
 {"appid":"com.shuzn.comicreader",
 "name":"SSC",
-"show":"true",
+"show":"false",
 "url":"http://www.baidu.com",
-"noTabBar":"true",
+"noTabBar":"false",
 "editTabBar":"false",
 "imgs":[
         "https://xiawu9.github.io/cc.png",
